@@ -1,0 +1,16 @@
+.mtavari{
+    width: 1280px;
+    height: 2471px;
+}
+.top {
+    width: 1280px;
+    height: 150px;
+
+}
+.hd1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 374px;
+    height: 94px;
+    font-size: 70px; font-weight: bold;
+}
